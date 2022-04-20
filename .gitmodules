@@ -1,0 +1,3 @@
+[submodule "CM3D-PRUSA-MINI-BEAR-FW"]
+	path = CM3D-PRUSA-MINI-BEAR-FW
+	url = git@github.com:ComunidadMaker3D/CM3D-PRUSA-MINI-BEAR-FW.git
