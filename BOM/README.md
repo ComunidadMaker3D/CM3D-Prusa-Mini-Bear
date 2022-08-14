@@ -9,6 +9,9 @@ This BOM is based on an existing Prusa MINI (original or clone)
 |2040 Aluminium extrusion 285 mm|2|[RatRig](https://www.ratrig.com/) [Aliexpress](https://s.click.aliexpress.com/e/_DDQRTTt)|
 |2040 Aluminium extrusion 350 mm|2|[RatRig](https://www.ratrig.com/) [Aliexpress](https://s.click.aliexpress.com/e/_DDQRTTt)|
 |2040 Aluminium extrusion 220 mm|1|[RatRig](https://www.ratrig.com/) [Aliexpress](https://s.click.aliexpress.com/e/_DDQRTTt)|
+|X MGN9H linear rail 290mm (optional) |1| [Aliexpress](https://s.click.aliexpress.com/e/_DeZmOGn)|
+|Y MGN9C linear rail 280mm (optional) |2| [Aliexpress](https://s.click.aliexpress.com/e/_DeZmOGn)|
+|Y MGN9C (optional) |1| [Aliexpress](https://s.click.aliexpress.com/e/_DeZmOGn)|
 |Z Motor T8x4 310mm |1| [Hanpose](https://s.click.aliexpress.com/e/_9z0dNt)|
 |POM Nut T8 pitch 2mm lead 4mm |1| [Aliexpress](https://s.click.aliexpress.com/e/_ACQ5J9)|
 |Z Smooth rods 8mm x 310mm |2| [Aliexpress](https://s.click.aliexpress.com/e/_AsSzsn)|
